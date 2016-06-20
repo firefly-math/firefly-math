@@ -17,7 +17,7 @@ Modularized Java Math Components
 
 ## Installation
 
-To install a module first clone it and then use [Maven](https://maven.apache.org/) to install it.  Then declare it as one of the dependencies in your project.  For instance install the [Firefly Math Exception](https://github.com/firefly-math/firefly-math-exceptions) module like this:
+To install a module first clone it and then use [Maven](https://maven.apache.org/) to install it.  For instance install the [Firefly Math Exception](https://github.com/firefly-math/firefly-math-exceptions) module like this:
 ```
 git clone https://github.com/firefly-math/firefly-math-exceptions.git
 cd firefly-math-exceptions
