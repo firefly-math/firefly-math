@@ -3,7 +3,7 @@
 Modularized Java Math Components
 
 ## Objectives
-- [Modular](https://github.com/substack/browserify-handbook#module-philosophy) design with minimal coupling and clear module boundaries
+- [Modular](https://github.com/substack/browserify-handbook#module-philosophy) lightweight design with minimal coupling and clear module boundaries
 - Simple well documented module use cases / examples
 - Exhaustive and easy to read tests
 - Dedicated repository per module for easy adoption and maintanence
