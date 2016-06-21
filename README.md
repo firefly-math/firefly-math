@@ -1,6 +1,6 @@
 # firefly-math
 
-Modularized Java Math Components
+Modularized Java math components that love you!
 
 ## Objectives
 - [Modular](https://github.com/substack/browserify-handbook#module-philosophy) lightweight design with minimal coupling and clear module boundaries
