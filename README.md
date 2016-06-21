@@ -26,7 +26,7 @@ mvn clean install
 
 ## Support
 
-Support is provided by the test cases that come with each module.  In addition ask questions on [Stackoverflow](http://stackoverflow.com/).  Make sure to follow Stackoverflow advice on [How to ask a good question](http://stackoverflow.com/help/how-to-ask).
+Support is provided by the test cases that come with each module.  In addition ask questions on [Stackoverflow](http://stackoverflow.com/).  Make sure to follow [Stackoverflow](http://stackoverflow.com/) recommendations for how to go about [Asking a good question](http://stackoverflow.com/help/how-to-ask).
 
 ## Issues
 
